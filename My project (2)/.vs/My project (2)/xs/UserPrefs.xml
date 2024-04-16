@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs">
+    <Files>
+      <File FileName="Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" Line="196" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (2)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="StarterAssets" expanded="True">
+                <Node name="ThirdPersonController" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="ThirdPersonController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0535e3ec-5a9f-4339-ba9b-af012c0d7a8f" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
