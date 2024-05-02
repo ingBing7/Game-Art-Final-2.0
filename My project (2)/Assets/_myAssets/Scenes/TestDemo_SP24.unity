@@ -97,7 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 5afad87cdf74ded40bfb58d1c2536676,
+    type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -15167,6 +15168,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: baby
       objectReference: {fileID: 0}
+    - target: {fileID: 6285770069191857424, guid: 0aa295cb8d28614498004fd4a0c6902e,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ad99a1ccba409864da46e4f34ccb01e7, type: 2}
     - target: {fileID: 9193963415792301273, guid: 0aa295cb8d28614498004fd4a0c6902e,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -20367,6 +20373,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 5800607843558064224, guid: 1bec0d5b42799456eb5473b2531cd707,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e1510b1545c747f4dbea751f1082fac9, type: 2}
     - target: {fileID: 6285788728938864208, guid: 1bec0d5b42799456eb5473b2531cd707,
         type: 3}
       propertyPath: m_Layer
@@ -21760,6 +21771,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 147.736
       objectReference: {fileID: 0}
+    - target: {fileID: 3200064866390883471, guid: a044037d6e9084b9da3a445975c8fda4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3d8817e0feb4f441a1029d90e09c98d, type: 2}
     - target: {fileID: 4271806567656522265, guid: a044037d6e9084b9da3a445975c8fda4,
         type: 3}
       propertyPath: m_Name
@@ -23782,6 +23798,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -64.811
       objectReference: {fileID: 0}
+    - target: {fileID: 6634057440058473942, guid: 8e2b17e825a02a041b8ca15e2d5a761b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bb4e86c171582db45987c4979f284038, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35514,6 +35535,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: twins
       objectReference: {fileID: 0}
+    - target: {fileID: 8183650784085591095, guid: a3d135da97b6a3c4bbc2d24ab63a52bf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 23ecb4d06d5ebfd4bad1d0226ebda753, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
