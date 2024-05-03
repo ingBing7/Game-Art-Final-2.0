@@ -15231,10 +15231,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 351422976}
   lines:
-  - meowoemowmeowmeowmeow
-  - ashdasjj
-  - ljahdfjkahdjkfahds
-  - ihkdslafjkdshfja
+  - After a long day's work, I can't wait to relax
+  - have a cold drink
+  - enjoy myself.
+  - ...
+  - ...
+  - ...
+  - Where are my children??
+  - Oh my squeak. I have to find them!!
   textSpeed: 0.03
   activator: {fileID: 505256552}
   panel: {fileID: 752333011}
