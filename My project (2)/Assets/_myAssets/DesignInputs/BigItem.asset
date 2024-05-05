@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: BigItem
   description: Pickup_HighValue
-  value: 5
+  value: 0
   pickupSound: {fileID: 0}
   pickupEffect: {fileID: 0}
